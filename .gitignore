@@ -1,0 +1,133 @@
+__pycache__/
+.vscode/*
+static/uploaded_videos/*.mp4
+static/cartoonized_images/*.jpg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variable files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Setup tools
+*.egg-info/
+.eggs/
+
+# Testing
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Logs and local data
+*.log
+*.pot
+*.mo
+*.sqlite3
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac & Linux junk
+.DS_Store
+Thumbs.db
+
+# mypy, pylint, etc.
+.mypy_cache/
+.pytest_cache/
+.pyre/
+.pylint.d/
+
+# Poetry
+poetry.lock
+
+# Other package managers
+Pipfile.lock
+
+# Docker
+*.pid
+
+
+# ─────────────────────────────────────────────────────────
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bytecode, logs, temp files
+*.log
+*.tmp
+*.bak
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Image outputs (you can whitelist specific folders if needed)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.ico
+*.svg
+
+# Generated animation or video
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mkv
+*.gif
+
+# PDFs, zips, archives
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# Dataset or media folders (optional — if auto-generated or big)
+data/
+output/
+images/
+results/
+samples/
+assets/
+
+# Jupyter Notebook
+.ipynb
+
